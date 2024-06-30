@@ -11,7 +11,7 @@ Instructions to run the app
 
 1. clone my repository in a location of your choice
 
-  https://github.com/Men01a/melina-rose-tbii-exam.git
+       https://github.com/Men01a/melina-rose-tbii-exam.git
   
 3. Change the directory:
 
